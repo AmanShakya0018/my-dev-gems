@@ -2,7 +2,7 @@ import React from 'react';
 // import { Themetoggle } from '@/components/ui/ThemeToggle';
 import Link from 'next/link';
 import Image from 'next/image';
-import NavbarDrawer from '../DRAWER/navbar-drawer1';
+import NavbarDrawer from '../COMMON/navbar-drawer1';
 import { navItems } from '@/constants';
 import AnchorNav from '../COMMON/anchor-nav';
 
